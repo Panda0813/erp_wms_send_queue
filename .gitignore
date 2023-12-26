@@ -1,0 +1,12 @@
+.env
+*.pyc
+*.pyo
+*.log
+*.log*
+.idea/
+log/
+migrations/
+venv
+media/
+lock.txt
+.ssh/
